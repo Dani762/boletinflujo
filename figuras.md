@@ -1,5 +1,5 @@
 '''mermaid
-flowchart TD
+flowchart TD;
     Inicio[start]
     Inicio --> escoger[\Ecoge entre un triángulo, un rectángulo, un pentágono o un hexágono o salir\]
     escoger --> pedirOpcion(Función pedir opción)
