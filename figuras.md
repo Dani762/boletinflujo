@@ -9,4 +9,4 @@ flowchart TD
     funcionPedirNumero --> rectángulo(Rectángulo = funcionCalcularAreaRectángulo) --> resultado[\El resultado es + funcionCalcularAreaHexagono\] --> Fin[end]
     funcionPedirNumero --> pentagono(Pentágono = funcionCalcularAreaPentagono) --> --> resultado[\El resultado es + funcionCalcularAreaHexagono\] --> Fin[end]
     funcionPedirNumero --> hexagono(Hexágono = funcionCalcularAreaHexagono) --> resultado[\El resultado es + funcionCalcularAreaHexagono\] --> Fin[end]
-    
+'''
